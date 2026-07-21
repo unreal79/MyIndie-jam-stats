@@ -54,9 +54,7 @@ pip install requests pandas numpy
 
 ## MyIndie Jam LVL10
 
-В данный момент только часть данных по джему [MyIndie Jam LVL10](https://myindie.ru/jams/jam/myindie-level-10) доступна: часть судей не проголосовали, а оценки анонимных участников и пользователей не раскрыты. HTML-страницы игр пока не скачаны.
-
-Будет дополнено...
+Данные по джему [MyIndie Jam LVL10](https://myindie.ru/jams/jam/myindie-level-10) доступны в ноутбуке [MyIndie-jam-stats_LVL10.ipynb](MyIndie-jam-stats_LVL10.ipynb).
 
 ## Личная интерпретация результатов
 
