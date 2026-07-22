@@ -17,16 +17,18 @@ Python 3.12+ (уверен, что подойдут и более ранние �
 * requests
 * pandas
 * numpy
+* matplotlib
+* seaborn
 
 ```bash
-pip install requests pandas numpy
+pip install requests pandas numpy matplotlib seaborn
 ```
 
 ## Запуск
 
-* Запустите последовательно ячейки с пунктами 0, 2, 3.
+* Запустите последовательно ячейки с пунктами 0, 2, 3, 4.
 
-* Пункт 1 (скачивание HTML-страниц игр) понадобится только для джема, отличного от MyIndie Jam LVL9. Для LVL9 уже скачаны HTML-страницы всех игр в директории 'output/myindie-game-jam-level-9'.
+* Пункт 1 (скачивание HTML-страниц игр) понадобится только для джема, отличного от MyIndie Jam LVL9 или LVL10. Для LVL9 уже скачаны HTML-страницы всех игр в директории 'output/myindie-game-jam-level-9'. Для LVL10 уже скачаны HTML-страницы всех игр в директории 'output/myindie-level-10'.
 
 ## MyIndie Jam LVL9
 
@@ -54,7 +56,10 @@ pip install requests pandas numpy
 
 ## MyIndie Jam LVL10
 
-Данные по джему [MyIndie Jam LVL10](https://myindie.ru/jams/jam/myindie-level-10) доступны в ноутбуке [MyIndie-jam-stats_LVL10.ipynb](MyIndie-jam-stats_LVL10.ipynb).
+Данные по джему [MyIndie Jam LVL10](https://myindie.ru/jams/jam/myindie-level-10) доступны:
+
+* В ноутбуке [MyIndie-jam-stats_LVL10.ipynb](MyIndie-jam-stats_LVL10.ipynb).
+* В HTML-файле (отрезано начало) [MyIndie-jam-stats_LVL10.html](MyIndie-jam-stats_LVL10.html).
 
 ## Личная интерпретация результатов
 
