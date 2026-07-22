@@ -19,9 +19,10 @@ Python 3.12+ (уверен, что подойдут и более ранние �
 * numpy
 * matplotlib
 * seaborn
+* scipy
 
 ```bash
-pip install requests pandas numpy matplotlib seaborn
+pip install requests pandas numpy matplotlib seaborn scipy
 ```
 
 ## Запуск
